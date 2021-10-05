@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebcyde
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React
 - 📫 How to reach me: email me @ sebcyde@hotmail.com
 
 <!---
