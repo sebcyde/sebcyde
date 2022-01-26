@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sebcyde
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Sebastian
+- 🌱 Mainly React, currently learning Python
 - 📫 How to reach me: email me @ sebcyde@hotmail.com
 
 <!---
