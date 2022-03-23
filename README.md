@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sebastian
-- 🌱 I mainly code in React, but I'm currently learning Python
+- 🌱 I mainly code in React, but I'm currently learning PHP
 - 📫 How to reach me: email me @ sebcyde@hotmail.com
 
 <!---
